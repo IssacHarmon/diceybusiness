@@ -1,0 +1,38 @@
+#btn-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 3px 14px 38px 4px rgba(0,0,0,0.75);
+    margin-top: 1em;
+    background-color: lightgrey;
+    border-radius: 3%;
+    padding: 1em
+    
+}
+
+#die-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    
+    box-shadow: 3px 14px 38px 4px rgba(0,0,0,0.75);
+    margin-top: 1em;
+    justify-content: center;
+    
+}
+
+.dice {
+    font-size: 10em;
+    }
+    
+    /* border: black solid 2px; */
+    /* background-color: cyan; */
+    /* margin: 5px; */
+    /* border-radius: 10%; */
+    /* color: crimson; */
+    /* font-size: xx-large; /* width: 100px; */
+    /* height: 100px;
+    justify-content: center;
+    align-items: center; */ 
+
+    /* had to remove all styling for the unicode to actually work */
